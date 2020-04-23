@@ -4,4 +4,4 @@ Steem Sentinels is _community-led_ project to fight cybercrime on the Steem Bloc
 
 The **Blacklist** is maintained by [Steem Sentinels | @sentinels]. 
 
-[**Join.**](https://discord.gg/J8JuNQh).
+[**Join**](https://discord.gg/J8JuNQh).
